@@ -1,0 +1,40 @@
+/**
+ * SCSS переменные для CRM системы "Добрый кофе"
+ * Разработчик: Alexey Savich
+ */
+
+// Основные цвета
+$primary-color: #FFFFFF;
+$secondary-color: #EEEEEE;
+$accent-color: #FFD166;
+$text-primary: #000000;
+$text-secondary: #787878;
+
+// Шрифты
+$font-family-primary: 'Nunito', sans-serif;
+
+// Размеры шрифтов
+$font-size-h1: 24px;
+$font-size-h1-mobile: 28px;
+$font-size-body: 14px;
+$font-size-body-mobile: 16px;
+$font-size-caption: 10px;
+$font-size-caption-mobile: 12px;
+
+// Веса шрифтов
+$font-weight-normal: 400;
+$font-weight-bold: 700;
+
+// Высота строк
+$line-height-h1: 28px;
+$line-height-h1-mobile: 32px;
+$line-height-body: 16px;
+$line-height-body-mobile: 18px;
+$line-height-caption: 12px;
+$line-height-caption-mobile: 14px;
+
+// Брейкпоинты
+$mobile-breakpoint: 768px;
+$tablet-breakpoint: 1024px;
+$desktop-breakpoint: 1200px;
+

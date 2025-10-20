@@ -1,0 +1,25 @@
+{
+  "name": "dobro-coffee",
+  "version": "1.0.0",
+  "description": "Добрый кофе - CRM система",
+  "author": "Alexey Savich",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "vercel-build": "nuxt build"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.6",
+    "@nuxtjs/vercel-builder": "^0.22.1",
+    "@nuxtjs/vuetify": "^1.12.3",
+    "node-fetch-native": "^1.6.7",
+    "nuxt": "^2.17.0",
+    "sass": "^1.32.13",
+    "sass-loader": "^10.1.1",
+    "vue": "^2.7.14",
+    "vuetify": "^2.6.14"
+  }
+}
